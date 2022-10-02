@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    background:antiquewhite;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.first h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: #551a8b;
+    margin-top: 150px;
+   
+    
+
+}
+
+.main{
+    font-size: 23px;
+    display: flex;
+    margin: 50px;
+    text-align: center;
+    width: 100%;
+    padding:60px;
+    margin-left: 220px;
+    color:#551a8b;
+   
+   
+}
+
+
+.team  a:hover{
+    color:rgb(115, 186, 9);
+    
+}
+
+.team a{ text-decoration: none;
+}
+.team h3{
+    color:white;
+    border-radius: 3px;
+    background-color:rgb(115, 186, 9);
+    text-align: center;
+}
+
+
+.team-1{
+    font-size: 23px;
+    display: flex;
+    margin-left: 200px;
+  
+}
+.team-1 h3{
+    color:white;
+    border-radius: 3px;
+    background-color:rgb(115, 186, 9);
+    text-align: center;
+}
+
+
+.team-2 {
+
+    font-size: 23px;
+    display: flex;
+    margin-left: 200px;
+ 
+}
+.team-2 li{color: #551a8b;}
+.team-2 li:hover {color:rgb(115, 186, 9); }
+
+.team-2 h3{
+    color:white;
+    border-radius: 3px;
+    background-color:rgb(115, 186, 9);
+    text-align: center;
+}
+.team-2 a{text-decoration: none;}
+
+.back{
+    margin: 50px;
+    padding: 10px;
+    text-align:center;
+    margin-left: 700px;
+    background-color: #551a8b;
+    color:white;
+    border-radius: 10px;
+    font-size:20px ;
+}
+
